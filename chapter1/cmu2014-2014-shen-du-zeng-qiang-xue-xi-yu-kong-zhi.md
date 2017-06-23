@@ -1,4 +1,4 @@
-# CMU 10703 Deep Reinforcement Learning & Control 
+# CMU 10703 Deep Reinforcement Learning & Control
 
 # \(深度增强学习与控制\)
 
@@ -9,6 +9,8 @@
 > 课程网址：[https://katefvision.github.io/](https://katefvision.github.io/)
 >
 > 翻译组课件：[https://pan.baidu.com/s/1qYQ1Pc4\#list/path=%2F  ](https://pan.baidu.com/s/1qYQ1Pc4#list/path=%2F)  ；  密码：2ss2
+>
+>                        [https://pan.baidu.com/s/1mi2Tt7i](https://pan.baidu.com/s/1mi2Tt7i)     ;  密码：3w0x
 
 
 
